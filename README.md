@@ -27,18 +27,18 @@ Description of each data file
 * Column 1: TCGA patient ID
 
 * Column 2: Homo deletion status of *interferons* and *defensins*
- * I: Homozygous deletion of interferons
- * D: Homozygous deletion of defensins
- * C: Co-occurring homozygous deletion of Interferon and defensins
- * N: Other
+  * I: Homozygous deletion of interferons
+  * D: Homozygous deletion of defensins
+  * C: Co-occurring homozygous deletion of Interferon and defensins
+  * N: Other
 
 * Column 3-4:Homo deletion status of *CDKN2A* and *PTEN*
- * -2: Deep deletion (homozygous deletion)
- * -1: Shallow deletion (loss)
- * 0: No change (copy neutral)
- * 1: Copy gain
- * 2: Amplification
+  * -2: Deep deletion (homozygous deletion)
+  * -1: Shallow deletion (loss)
+  * 0: No change (copy neutral)
+  * 1: Copy gain
+  * 2: Amplification
 
 * Column 5-8: Mutation status of *CDKN2A*, *PTEN*, *defensin* and *interferon*
- * 0: no mutation
- * 1: nonsynonymous mutation
+  * 0: no mutation
+  * 1: nonsynonymous mutation
