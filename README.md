@@ -18,8 +18,11 @@ The 17 TCGA cancer types
 * SKCM
 * STAD
 * UCS
-* colorectal (COAD + READ)
-* lung (LUAD + LUSC)
+* Colorectal (COAD + READ)
+* Lung (LUAD + LUSC)
+
+Description of each data file 
+==============================
 
 Column 1: TCGA patient ID
 ------------------------------
@@ -36,7 +39,7 @@ Column 3-4:Homo deletion status of *CDKN2A* and *PTEN*
 * -2: Deep deletion (homozygous deletion)
 * -1: Shallow deletion (loss)
 * 0: No change (copy neutral)
-* 1: copy gain
+* 1: Copy gain
 * 2: Amplification
 
 Column 5-8: Mutation status of *CDKN2A*, *PTEN*, *defensin* and *interferon*
